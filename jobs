@@ -1,4 +1,4 @@
-job('Mavan-DSL-JOB-Chiled'){
+job('Mavan-DSL-JOB-Chiled-use-file'){
   
   description('This is mavan dsl job')
   
